@@ -1,26 +1,29 @@
 
-Digital Tutors
 
-Lynda
 
-Eat3D
 
-CGWorkshop
+	Digital Tutors
 
-3DBuzz
+	Lynda
 
-Vfxbro
+	Eat3D
 
-Stan Winston School
+	CGWorkshop
 
-CGCookie
+	3DBuzz
 
-3dmotive
+	Vfxbro
 
-vizpeople
+	Stan Winston School
 
-3DTotal
+	CGCookie
 
-cmivfx.
+	3dmotive
 
-FX Phd
+	vizpeople
+
+	3DTotal
+
+	cmivfx.
+
+	FX Phd

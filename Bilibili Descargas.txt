@@ -1,0 +1,469 @@
+
+	
+
+	Tutoriales importantes a descargar de la plataforma de bilibili
+
+		https://search.bilibili.com
+
+			pluralsight
+
+			digitaltutos
+
+			lynda
+
+	SUPER VRAY
+		https://www.youtube.com/channel/UCBma_LcjGyD6EEZFoV9ZnsQ
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Modeling:
+_________
+
+
+Digital-Tutors Maya Modeling Techniques AUtomotive
+	https://www.bilibili.com/video/av12523466?p=2
+
+DT Modelig Architectural Destruction in Maya
+	https://www.bilibili.com/video/av6853385/
+
+DT Introduction to Modeling in 3D Max 2012
+	https://www.bilibili.com/video/av5609542?from=search&seid=1402203005993478486
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Rigging:
+________
+
+DT Maya Rigging Reference Library: Skeleton Menu
+	https://www.bilibili.com/video/av8457613?from=search&seid=7764439561337639462
+
+Digital-Tutors Standardizing Rigs in Maya
+	https://www.bilibili.com/video/av10157641/
+
+DT Cartoon Character Rigging in Maya
+	https://www.bilibili.com/video/av12429498/
+
+DT Character Setup Riggin in Maya
+	https://www.bilibili.com/video/av12125582?from=search&seid=108949686738535313
+
+Digital-Tutors Introduction to Rigging in Maya
+	https://www.bilibili.com/video/av12128966?from=search&seid=108949686738535313
+
+Digital Tutors Rigging Quadrupeds in Maya
+	https://www.bilibili.com/video/av11697757?from=search&seid=108949686738535313
+
+DT Advanced Character Rigging in Maya
+	https://www.bilibili.com/video/av18090915?from=search&seid=3882124725595876710
+
+DT Facial Rig in C4D
+	https://www.bilibili.com/video/av21568612
+
+
+DT Rigging hand in 3D Max
+	https://www.bilibili.com/video/av10600140?from=search&seid=12299144602397007360
+
+DT-Rigging Cartoon Characters in C4D
+	https://www.bilibili.com/video/av14455061
+
+DT Rigging the Human Face in Maya 2011
+	https://www.bilibili.com/video/av9301680?from=search&seid=14087949363314108785
+
+DT C4D Rigging a Car to Explode
+	https://www.bilibili.com/video/av16771739?from=search&seid=3943362042275196037
+
+DT Creating Light Rigs in Maya
+	https://www.bilibili.com/video/av9637528?from=search&seid=7764439561337639462
+
+Gnomon Rigging Advanced
+	https://www.bilibili.com/video/av9089077/
+
+DT Designing Controls with Deformation Feedback in Maya
+	https://www.bilibili.com/video/av9643084?from=search&seid=9406046911344716058
+
+DT Performance-Based Dynamics in Maya
+	https://www.bilibili.com/video/av9282167?from=search&seid=9406046911344716058
+
+DT Motion Flow Rigging in Maya
+	https://www.bilibili.com/video/av9282032?from=search&seid=9406046911344716058
+
+DT Motion Flow Rigging in Maya
+	https://www.bilibili.com/video/av9282032?from=search&seid=9406046911344716058
+
+DT Rigging Game Character in Maya
+	https://www.bilibili.com/video/av9282281?from=search&seid=9406046911344716058
+
+DT-Bases Facial Rigging in Maya
+	https://www.bilibili.com/video/av9356356?from=search&seid=5102191741383865945
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Muscle:
+_______
+
+Digital Tutors-Introduction to Maya Muscle
+	https://www.bilibili.com/video/av10106029?from=search&seid=15725028928844392273
+
+DT Creating Custom Muscle in Maya
+	https://www.bilibili.com/video/av8918940?from=search&seid=7764439561337639462
+
+DT Enhancing Rigs with Maya Muscle
+	https://www.bilibili.com/video/av9021508?from=search&seid=7764439561337639462
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Animation:
+__________
+
+DT Advanced HumanIK in Maya
+	https://www.bilibili.com/video/av9408904?from=search&seid=7764439561337639462
+
+DIGITAL_TUTORS_Introduction_To_Maya_Walk Cycles
+	https://www.bilibili.com/video/av12615237?from=search&seid=11395029289228848810
+
+Digital-Tutors Animating Quadrupeds in Maya
+	https://www.bilibili.com/video/av12455285/
+
+DT Animation Retargeting Techniques in Maya
+	https://www.bilibili.com/video/av12090938?from=search&seid=108949686738535313
+
+DT Building walk cicles in maya 2017
+	https://www.bilibili.com/video/av20598324
+
+
+DT animating advanced body dechanical in maya
+	https://www.bilibili.com/video/av25339799?from=search&seid=9692849887939622621
+
+Lybda fundamental mechanical animations
+	https://www.bilibili.com/video/av25853296?from=search&seid=9692849887939622621
+
+DT exploring animation principles in maya staging
+	https://www.bilibili.com/video/av25552370?spm_id_from=333.338.__bofqi.19
+
+DT C4D animating Eyes
+	https://www.bilibili.com/video/av16594637?from=search&seid=12299144602397007360
+
+Digital.Tutors.Body.Mechanics.and.Animation in maya pushing objects
+	https://www.bilibili.com/video/av14737819?from=search&seid=12191253794757405695
+
+Lynda - Maya Fundamentals of Medical Animation
+	https://www.bilibili.com/video/av25853296/
+
+DT Animating Time Warps im Maya
+	https://www.bilibili.com/video/av14778913?from=search&seid=7744013447477096456
+
+DT Creating Procedural Animation for an Insect in Maya
+	https://www.bilibili.com/video/av9301946?from=search&seid=9406046911344716058	
+
+DT Animating Between IK an FK Systems in Maya
+	https://www.bilibili.com/video/av9261010
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Rendering:
+__________
+
+DT mental ray Workflows in Maya Final Gather
+	https://www.bilibili.com/video/av7189242?from=search&seid=16399657106649262449
+
+
+Maya Rendering Nodes Reference Library
+	https://www.bilibili.com/video/av7076557/index_13.html
+	https://www.bilibili.com/video/av7076557/index_3.html
+
+Maya Rendering Nodes Reference Library: General Utilities
+	https://www.bilibili.com/video/av7076557/index_8.html
+
+DT Subsurface Scattering Shading in Maya and Mentalray
+	https://www.bilibili.com/video/av10062889/
+
+DT mentalray workflows in maya final gather
+	https://www.bilibili.com/video/av5139142/
+
+DT Exterior Rendering Techniques in mentalray and Maya
+	https://www.bilibili.com/video/av8361254?from=search&seid=16399657106649262449
+
+
+DT Lighting Car With V-Ray
+	https://www.bilibili.com/video/av17604367/?spm_id_from=333.338.recommend_report.4
+
+Digital Tutors Rendering with Maya Toon
+	https://www.bilibili.com/video/av10105592
+
+DT Rendering Interiors with Mentalray  with Maya
+	https://www.bilibili.com/video/av8742816
+
+DT Maya Arnold 2017
+	https://www.bilibili.com/video/av21701935?from=search&seid=17351330900235711372
+
+MtoA 103 - The Power of Utility nodes - using Arnold with Maya 2017
+	https://www.bilibili.com/video/av23254197?from=search&seid=15623004865130018470
+
+Maya Interior Render Pro
+	https://www.bilibili.com/video/av21223305?from=search&seid=17351330900235711372
+
+Lynda Mentalray in Maya
+	https://www.bilibili.com/video/av19353088/
+
+DT Subsurface Scattering 
+	https://www.bilibili.com/video/av10062889?from=search&seid=11269809638997067762
+
+DT HDR Images for 3D Lighting in Maya
+	https://www.bilibili.com/video/av10110120?from=search&seid=11269809638997067762
+
+DT Introduction to Mentalray in Maya
+	https://www.bilibili.com/video/av7189911
+
+DT Rendering Interior with mentalray in maya
+	https://www.bilibili.com/video/av8742816/
+
+DT Interior Rendering Strategies with Arnold and Maya
+	https://www.bilibili.com/video/av20613099/
+
+Lynda Advance Material in Maya
+	https://www.bilibili.com/video/av20640857/
+
+Lynda Mentalray
+	https://www.bilibili.com/video/av19352632/
+	https://www.bilibili.com/video/av19353088/
+	https://www.bilibili.com/video/av19353088/
+
+CG Lighting with Maya and Menal Ray
+	https://www.bilibili.com/video/av9947959?from=search&seid=11269809638997067762
+
+Mental ray SCENE PRO
+	https://www.bilibili.com/video/av9903853/
+	https://www.bilibili.com/video/av9903532/
+
+Maya&mentalray (chino)
+	https://www.bilibili.com/video/av9503438?from=search&seid=11269809638997067762
+
+Maya2017 Arnold
+	https://www.bilibili.com/video/av21696674
+
+Vray for Maya
+	https://www.bilibili.com/video/av12312935
+	https://www.bilibili.com/video/av12325493
+	https://www.bilibili.com/video/av12322922/
+	https://www.bilibili.com/video/av12327035/
+	https://www.bilibili.com/video/av12309035/
+	https://www.bilibili.com/video/av12327944/
+	https://www.bilibili.com/video/av12325493/
+
+DT Advanced lighting and rendering techniques in vray and maya
+	https://www.bilibili.com/video/av5784541
+
+
+
+SIMPLYMAYA.COM.INTERIOR.SCENE
+	https://www.bilibili.com/video/av12741561
+
+
+C4D Obtane
+	https://www.bilibili.com/video/av22957727/?spm_id_from=333.338.recommend_report.4
+
+
+Maya Render Bottles of life
+	https://www.bilibili.com/video/av10440285
+
+C4D Helloluxx - Natural Enviroment
+	https://www.bilibili.com/video/av17416909
+
+
+3D Max Vray Arquitectura pro
+	https://www.bilibili.com/video/av6428519
+
+Render CGLYO - RedShift & Maya
+	https://www.bilibili.com/video/av9488836/?spm_id_from=333.338.recommend_report.1
+
+Utilizing Advanced Shasing Techniques Using V-ray in Maya
+	https://www.bilibili.com/video/av20639778/
+
+
+3D Max Vray Pro
+	https://www.bilibili.com/video/av6349609/
+
+Multi-Pass Rendering Techniques in Maya
+	https://www.bilibili.com/video/av20641025/
+
+DT Interior rendering strategies with arnold and maya
+	https://www.bilibili.com/video/av20630637
+
+Maya Arnold PHD
+	https://www.bilibili.com/video/av9069916/
+
+Maya Mentalray PHD
+	https://www.bilibili.com/video/av25197276/
+
+DT Interior rendering strategies with arnold Maya 2018
+	https://www.bilibili.com/video/av22149726?spm_id_from=333.338.__bofqi.14
+
+DT Interior rendering strategies with mentalray with 3D Max
+	https://www.bilibili.com/video/av6466436/
+
+DT creating high resolution studio renders in 3d max and vray
+	https://www.bilibili.com/video/av5049964/
+
+3D max Vray pro
+	https://www.bilibili.com/video/av6428519/?spm_id_from=333.338.recommend_report.1
+
+DT Maya 2017 Arnold
+	https://www.bilibili.com/video/av21712055?from=search&seid=392892710293629561
+
+Cinema 4D Lighting Course 
+	https://www.bilibili.com/video/av14806395?from=search&seid=10315390987751767380
+
+Intro to HDRI Lighting Using Global Illumination
+	https://www.bilibili.com/video/av15497860?from=search&seid=10315390987751767380
+
+DT Introduction to Rendering in Maya 2014
+	https://www.bilibili.com/video/av9646635?from=search&seid=14944949219008455535
+
+Arnold Maya 2018
+	https://www.bilibili.com/video/av22364654/
+
+DT Utilizing Shading Networks in Maya
+	https://www.bilibili.com/video/av10577436?from=search&seid=3684680140978604267
+
+DT Baking Light Maps for Game Enviroment in Maya
+	https://www.bilibili.com/video/av10465142?from=search&seid=9406046911344716058
+
+DT Guerrilla Lighting and Rendering Tactics in Maya and Menralray
+	https://www.bilibili.com/video/av9637733?from=search&seid=9406046911344716058
+
+DT Linea Workflow Rendering Strategies in Maya
+	https://www.bilibili.com/video/av9644807?from=search&seid=9406046911344716058
+
+DT Exterior Rendering Strategies with Arnold and Maya
+	https://www.bilibili.com/video/av14630373/
+
+DT Linear Workflow Rendering Strategies with Arnold and Maya
+	https://www.bilibili.com/video/av22387998/
+
+DT Top 10 Rendering Tips for Maya Artists
+	https://www.bilibili.com/video/av9223602?from=search&seid=12075240122413149452
+
+FXPHD.MRY201 Mental.Ray
+	https://www.bilibili.com/video/av22664844?from=search&seid=14302782464538195918
+
+FXPHD - MYA227 Transitioning from Mental Ray to Arnold
+	https://www.bilibili.com/video/av20594347?from=search&seid=16399657106649262449
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Dynamics:
+_________
+
+Digital Tutors - Rigid Body Tips and Trick in Maya
+	https://www.bilibili.com/video/av9301495?from=search&seid=7764439561337639462
+
+Maya Xgen
+	https://www.bilibili.com/video/av8112156/
+
+Maya Xgen Hain Tips and tricks
+	https://www.bilibili.com/video/av22599570?from=search&seid=4189974124924079454
+
+Digital-Tutors Create a Realistic candle flame in maya
+	https://www.bilibili.com/video/av15535662?from=search&seid=14087949363314108785
+
+DT Creating Realistic Bullet Impact Dynamics in Maya
+	https://www.bilibili.com/video/av15445561?from=search&seid=7744013447477096456
+
+DT Shattering a Statue Using Bullet Physics in Maya
+	https://www.bilibili.com/video/av15293420?from=search&seid=7744013447477096456
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Dynamics:
+_________
+
+DT Undestanding the Basics if nHair in Maya
+	https://www.bilibili.com/video/av8111859?from=search&seid=7744013447477096456
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Stereoscopyc:
+_____________
+
+
+DT Stereoscopy Basisc Entering the Third Dimension
+	https://www.bilibili.com/video/av22527912?from=search&seid=3684680140978604267
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Sculpting:
+__________
+
+ZBrush Hair Pro
+	https://www.bilibili.com/video/av17620543/
+
+Gnomon Sculpt character
+	https://www.bilibili.com/video/av9180391/
+
+-------------------------------------------------------------------------------------------------------------------------
+Mapping:
+________
+
+Substance Designer tutorial pro
+	https://www.bilibili.com/video/av22746446/
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Houdini:
+________
+
+DT introduction to houdini 15
+	https://www.bilibili.com/video/av19120974?from=search&seid=14087949363314108785
+
+Lynda dynamics and simulation in houdini
+	https://www.bilibili.com/video/av19515348/
+
+
+-------------------------------------------------------------------------------------------------------------------------
+After Effects:
+______________
+
+DT AE Logo
+	https://www.bilibili.com/video/av13243656?p=2
+
+DT Expressions Made Easy
+	https://www.bilibili.com/video/av22781340?from=search&seid=7744013447477096456
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Other Mix:
+__________
+
+	DT Color Theory for Taday Creative Professsionals
+		https://www.bilibili.com/video/av9128784?from=search&seid=12075240122413149452
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Maya Scripting:
+_______________
+
+
+DT Artist Guide to Phyton Scripting in Maya
+	https://www.bilibili.com/video/av8966796?from=search&seid=12075240122413149452
+
+
+
+
+
+
+
+
+
+
+
+
+
+

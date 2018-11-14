@@ -23,3 +23,29 @@ ____________
 	
 	DT mentalray workflow in maya caustic
 		https://www.bilibili.com/video/av9646826/
+
+	DT mental ray Workflows in Maya Final Gather
+		https://www.bilibili.com/video/av7189242/?p=1
+
+	DT Maya Rendering Nodes Reference Library: 3D Texture
+		https://www.bilibili.com/video/av7076557/?p=13
+
+	DT Subsurface Scattering Shading in Maya and Mentalray
+		https://www.bilibili.com/video/av10062889/
+
+	DT Top 10 Rendering Tips for Maya Artists
+		https://www.bilibili.com/video/av9223602?from=search&seid=12075240122413149452
+
+	Maya Render Bottles of life
+		https://www.bilibili.com/video/av10440285
+
+	Digital Tutor - CG101 Rendering
+		https://www.bilibili.com/video/av23213947/?p=4
+
+
+
+
+
+
+
+

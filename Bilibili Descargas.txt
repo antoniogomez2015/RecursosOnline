@@ -15,6 +15,10 @@
 		https://www.youtube.com/channel/UCBma_LcjGyD6EEZFoV9ZnsQ
 
 
+ART LAND DESIGN
+	https://www.freelancer.com/u/kingjoon
+
+
 -------------------------------------------------------------------------------------------------------------------------
 Modeling:
 _________
@@ -28,6 +32,13 @@ DT Modelig Architectural Destruction in Maya
 
 DT Introduction to Modeling in 3D Max 2012
 	https://www.bilibili.com/video/av5609542?from=search&seid=1402203005993478486
+
+DT Animating Object Transitions in CINEMA 4D
+	https://www.bilibili.com/video/av16740215?from=search&seid=11284549915735246857
+
+DigitalTutors-AutomotiveModelingin3dsMax
+	https://www.bilibili.com/video/av21623789/?p=27
+
 
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -95,6 +106,9 @@ DT Rigging Game Character in Maya
 DT-Bases Facial Rigging in Maya
 	https://www.bilibili.com/video/av9356356?from=search&seid=5102191741383865945
 
+Digital Tutor - CG101 Rigging
+	https://www.bilibili.com/video/av23213739?from=search&seid=9382619385977184932
+
 
 -------------------------------------------------------------------------------------------------------------------------
 Muscle:
@@ -157,27 +171,35 @@ DT Creating Procedural Animation for an Insect in Maya
 DT Animating Between IK an FK Systems in Maya
 	https://www.bilibili.com/video/av9261010
 
+Pluralsight - Cinema 4D Mograph Fundamentals
+	https://www.bilibili.com/video/av15497724?from=search&seid=11431284287026423028
+
+DigitalTutors Camera Projection in maya 2011
+	https://www.bilibili.com/video/av10266061?from=search&seid=8078395367500610710
+
+Digital Tutor - CG101 12 Principes of animation
+	https://www.bilibili.com/video/av20524881?from=search&seid=9382619385977184932
+
+Digital Tutor - CG101 Cinematography
+	https://www.bilibili.com/video/av20550415?from=search&seid=9382619385977184932
+
+Digital Tutors Creative Development Advance
+	https://www.bilibili.com/video/av9408904?from=search&seid=2886121058616147445
+
+
+
+NUEVOS:
+
+
+Pluralsight – Animating a Walk Cycle in Maya
+	https://www.cgpeers.com/torrents.php?id=56260&torrentid=56200#torrent56200
+
+
 
 -------------------------------------------------------------------------------------------------------------------------
 Rendering:
 __________
 
-DT mental ray Workflows in Maya Final Gather
-	https://www.bilibili.com/video/av7189242?from=search&seid=16399657106649262449
-
-
-Maya Rendering Nodes Reference Library
-	https://www.bilibili.com/video/av7076557/index_13.html
-	https://www.bilibili.com/video/av7076557/index_3.html
-
-Maya Rendering Nodes Reference Library: General Utilities
-	https://www.bilibili.com/video/av7076557/index_8.html
-
-DT Subsurface Scattering Shading in Maya and Mentalray
-	https://www.bilibili.com/video/av10062889/
-
-DT mentalray workflows in maya final gather
-	https://www.bilibili.com/video/av5139142/
 
 DT Exterior Rendering Techniques in mentalray and Maya
 	https://www.bilibili.com/video/av8361254?from=search&seid=16399657106649262449
@@ -204,8 +226,6 @@ Maya Interior Render Pro
 Lynda Mentalray in Maya
 	https://www.bilibili.com/video/av19353088/
 
-DT Subsurface Scattering 
-	https://www.bilibili.com/video/av10062889?from=search&seid=11269809638997067762
 
 DT HDR Images for 3D Lighting in Maya
 	https://www.bilibili.com/video/av10110120?from=search&seid=11269809638997067762
@@ -261,13 +281,8 @@ SIMPLYMAYA.COM.INTERIOR.SCENE
 C4D Obtane
 	https://www.bilibili.com/video/av22957727/?spm_id_from=333.338.recommend_report.4
 
-
-Maya Render Bottles of life
-	https://www.bilibili.com/video/av10440285
-
 C4D Helloluxx - Natural Enviroment
 	https://www.bilibili.com/video/av17416909
-
 
 3D Max Vray Arquitectura pro
 	https://www.bilibili.com/video/av6428519
@@ -277,7 +292,6 @@ Render CGLYO - RedShift & Maya
 
 Utilizing Advanced Shasing Techniques Using V-ray in Maya
 	https://www.bilibili.com/video/av20639778/
-
 
 3D Max Vray Pro
 	https://www.bilibili.com/video/av6349609/
@@ -339,14 +353,62 @@ DT Exterior Rendering Strategies with Arnold and Maya
 DT Linear Workflow Rendering Strategies with Arnold and Maya
 	https://www.bilibili.com/video/av22387998/
 
-DT Top 10 Rendering Tips for Maya Artists
-	https://www.bilibili.com/video/av9223602?from=search&seid=12075240122413149452
-
 FXPHD.MRY201 Mental.Ray
 	https://www.bilibili.com/video/av22664844?from=search&seid=14302782464538195918
 
+Arnold MtoA 101 - aiStandard Material Basics - Using Arnold with Maya
+	https://www.bilibili.com/video/av14617169?from=search&seid=4523302381481175181
+
 FXPHD - MYA227 Transitioning from Mental Ray to Arnold
 	https://www.bilibili.com/video/av20594347?from=search&seid=16399657106649262449
+	https://www.bilibili.com/video/av25197276
+
+Digital Tutor - CG101 Image Editing
+	https://www.bilibili.com/video/av23212997?from=search&seid=9382619385977184932
+
+Digital Tutor - CG101 Compositing
+	https://www.bilibili.com/video/av20582666?from=search&seid=9382619385977184932
+
+Digital Tutor - CG101 Lighting
+	https://www.bilibili.com/video/av23213143?from=search&seid=9382619385977184932
+
+DT Rendering Volumes and Effects with Arnold and Maya
+	https://www.bilibili.com/video/av23486408
+
+
+Mograph + Maya2018 Arnold
+	https://www.bilibili.com/video/av22364654?from=search&seid=15777831413500970189
+
+Pluralsight Maya2017 Arnold
+	https://www.bilibili.com/video/av21712055?from=search&seid=15777831413500970189
+
+Mograph + 3ds max2018 Arnold
+	https://www.bilibili.com/video/av26220859?from=search&seid=15777831413500970189
+
+Mographplus vray3.4~3.6 for max
+	https://www.bilibili.com/video/av21964106?from=search&seid=17386684323771950701
+
+MographPlus - Comprehensive introduction to VrayForC4d
+	https://www.bilibili.com/video/av22128108?from=search&seid=17386684323771950701
+
+MographPlus Realflow2015 and C4D
+	https://www.bilibili.com/video/av9739486?from=search&seid=17386684323771950701
+
+MographPlus C4D + Realflow + Ae
+	https://www.bilibili.com/video/av21641493?from=search&seid=17386684323771950701
+
+
+
+
+
+NUEVOS:
+
+Pluralsight - Shading and Texturing Interior Architecture with Substance Painter and V-Ray for 3ds Max
+	https://www.cgpeers.com/torrents.php?id=57000&torrentid=56940#torrent56940
+
+Pluralsight – Studio Lighting Techniques with 3ds Max and V-Ray
+	https://www.cgpeers.com/torrents.php?id=56259&torrentid=56199#torrent56199
+
 
 
 
@@ -372,6 +434,111 @@ DT Creating Realistic Bullet Impact Dynamics in Maya
 DT Shattering a Statue Using Bullet Physics in Maya
 	https://www.bilibili.com/video/av15293420?from=search&seid=7744013447477096456
 
+FXPHD - PHY101 - Introduction To Physics
+	https://www.bilibili.com/video/av20254219?from=search&seid=4523302381481175181
+
+Pluralsight - Simulating a Burning Tree in Maya
+	https://www.bilibili.com/video/av15292053
+
+DT Simulating a Fluid Driven Particle System in Maya
+	https://www.bilibili.com/video/av15445301/?spm_id_from=333.338.recommend_report.2
+
+DT Maya and FumeFx Dust in production
+	https://www.bilibili.com/video/av20607418
+
+Lynda Maya 2019 Bifrost FLuids
+	https://www.bilibili.com/video/av22163899
+
+DT Maya Dynamics Bifrost for Small-scale Simulations
+	https://www.bilibili.com/video/av15987461?from=search&seid=1215747738395496591
+
+DT Adding Dynamics to a Mermeaid Animation with Bifrost in Maya
+	https://www.bilibili.com/video/av15973208/
+
+DT Dynamocs Combining nCloth an Bifrot
+	https://www.bilibili.com/video/av23536731/
+
+
+Pankaj Malik
+
+	https://www.pluralsight.com/authors/pankaj-malik
+	https://search.bilibili.com/all?keyword=Pankaj%20Malik
+
+	Creating Realistic Fire and Sparks in Maya (1 Dec 2012)
+		https://www.bilibili.com/video/av15445985?from=search&seid=8083538547190491242
+
+	Creating Fire and Smoke using Maya Fluid Effects (25 Feb 2013)
+		https://www.cgpeers.com/torrents.php?id=23260&torrentid=23124#torrent23124
+
+	Creating a Gasoline Explosion in Maya (15 Jul 2013)
+		https://www.bilibili.com/video/av15535768?from=search&seid=8083538547190491242
+
+	Creating Realistic Bullet Impact Dynamics in Maya (4 Nov 2013)
+		https://www.pluralsight.com/authors/pankaj-malik
+
+	Creating a Realistic Candle Flame in Maya (25 Nov 2013)
+		https://www.bilibili.com/video/av15535662?from=search&seid=8083538547190491242
+
+	Simulating a Shattering Light Bulb in Maya (20 Apr 2014)
+		https://www.bilibili.com/video/av15444644?from=search&seid=8083538547190491242
+
+	Simulating a Dry Ice Effect in Maya (16 Oct 2014)
+		https://www.bilibili.com/video/av15148599
+
+	Simulating Sandman Effects in Maya (10 Jun 2014)
+		https://www.bilibili.com/video/av15543220?from=search&seid=8083538547190491242
+
+	Digital Tutors - Simulating Dust Dynamics for Object Impacts in Maya (25 Aug 2014)
+		https://www.cgpeers.com/torrents.php?id=37051&torrentid=36967#torrent36967
+
+	Simulating a Flamethrower Effect in Maya (30 Dec 2014)
+		https://www.bilibili.com/video/av15535684?from=search&seid=8083538547190491242
+
+	Simulating a Volcano Blast in Maya (13 Nov 2014)
+		https://www.bilibili.com/video/av15291847?from=search&seid=8083538547190491242		
+
+	Simulating a Wrapper Peeling Effect in Maya (3 Feb 2015)
+		https://www.bilibili.com/video/av15445773?from=search&seid=8083538547190491242
+
+	Digital Tutors – Simulating a Burning Matchstick Effect in Maya (3 Apr 2015)
+		https://www.cgpeers.com/torrents.php?id=41076&torrentid=41020#torrent41020
+
+	Digital Tutors - Simulating a Disintegration Effect in Maya (28 May 2015)
+		https://www.cgpeers.com/torrents.php?id=41762&torrentid=41706#torrent41706
+
+	Simulating a Fluid Driven Particle System in Maya (24 Jul 2015)
+		https://www.bilibili.com/video/av15445301?from=search&seid=8083538547190491242
+
+	Simulating a Ground Dust Explosion in Maya (1 Oct 2015)
+		https://www.bilibili.com/video/av13479996?from=search&seid=8083538547190491242
+
+	Pluralsight - Simulating a Large Dust Storm in Maya (10 Feb 2016)
+		https://www.cgpeers.com/torrents.php?id=45627&torrentid=45571#torrent45571
+
+	Simulating a Burning Tree in Maya (26 May 2016)
+		https://www.bilibili.com/video/av15292053?from=search&seid=8083538547190491242
+
+	Maya Dynamics: Using Particles to Create Magical Smoke (27 Oct 2016)
+		https://www.bilibili.com/video/av15292044?from=search&seid=1215747738395496591
+
+	Maya Dynamics: nParticles and Expressions (6 Apr 2017)
+		https://www.bilibili.com/video/av15276737?from=search&seid=8083538547190491242
+
+	Maya Fluid Fundamentals (10 Jan 2017)
+		https://www.bilibili.com/video/av22367062?from=search&seid=8083538547190491242
+
+	Maya Dynamics: Creating Effects With Multiple Solvers (7 Jul 2017)
+		https://www.bilibili.com/video/av15445797?from=search&seid=1215747738395496591	
+
+	DT Rendering Volumes and Effects with Arnold and Maya (25 Jan 2018)
+		https://www.pluralsight.com/authors/pankaj-malik
+		
+	
+
+PhoenixFD Fire Smoke Beginner Course
+	https://www.cgpeers.com/torrents.php?id=56353&torrentid=56293#torrent56293
+
+		
 
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -381,7 +548,8 @@ _________
 DT Undestanding the Basics if nHair in Maya
 	https://www.bilibili.com/video/av8111859?from=search&seid=7744013447477096456
 
-
+Digital Tutor - CG101 dynamics
+	https://www.bilibili.com/video/av20631218?from=search&seid=9382619385977184932
 
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -456,6 +624,18 @@ DT Artist Guide to Phyton Scripting in Maya
 
 
 
+
+-------------------------------------------------------------------------------------------------------------------------
+Realidad Aumentada:
+___________________
+
+
+	Curso Máster 3D Realidad Virtual con Unreal Engine
+		https://www.descargasnsn.com/23724-curso-master-3d-realidad-virtual-con-unreal.html
+
+
+	Curso Diseño de interiores con Autodesk
+		https://www.descargasnsn.com/23721-curso-diseno-interiores-con-autodesk.html
 
 
 
